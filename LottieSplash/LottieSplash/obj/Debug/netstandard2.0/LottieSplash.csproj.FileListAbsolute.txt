@@ -1,0 +1,12 @@
+C:\Users\tigri\source\repos\LottieSplash\LottieSplash\LottieSplash\bin\Debug\netstandard2.0\LottieSplash.deps.json
+C:\Users\tigri\source\repos\LottieSplash\LottieSplash\LottieSplash\bin\Debug\netstandard2.0\LottieSplash.dll
+C:\Users\tigri\source\repos\LottieSplash\LottieSplash\LottieSplash\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\tigri\source\repos\LottieSplash\LottieSplash\LottieSplash\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\tigri\source\repos\LottieSplash\LottieSplash\LottieSplash\obj\Debug\netstandard2.0\LottieSplash.AssemblyInfoInputs.cache
+C:\Users\tigri\source\repos\LottieSplash\LottieSplash\LottieSplash\obj\Debug\netstandard2.0\LottieSplash.AssemblyInfo.cs
+C:\Users\tigri\source\repos\LottieSplash\LottieSplash\LottieSplash\bin\Debug\netstandard2.0\ref\LottieSplash.dll
+C:\Users\tigri\source\repos\LottieSplash\LottieSplash\LottieSplash\bin\Debug\netstandard2.0\LottieSplash.pdb
+C:\Users\tigri\source\repos\LottieSplash\LottieSplash\LottieSplash\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\tigri\source\repos\LottieSplash\LottieSplash\LottieSplash\obj\Debug\netstandard2.0\LottieSplash.dll
+C:\Users\tigri\source\repos\LottieSplash\LottieSplash\LottieSplash\obj\Debug\netstandard2.0\ref\LottieSplash.dll
+C:\Users\tigri\source\repos\LottieSplash\LottieSplash\LottieSplash\obj\Debug\netstandard2.0\LottieSplash.pdb
